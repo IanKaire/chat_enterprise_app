@@ -1,0 +1,1 @@
+/*It contains a few svg icons, png icons, screens and images */
